@@ -7,17 +7,27 @@
 
 <p align="left"> <a href="https://twitter.com/victor69784406" target="blank"><img src="https://img.shields.io/twitter/follow/victor69784406?logo=twitter&style=for-the-badge" alt="victor69784406" /></a> </p>
 
-Hello, I'm Alabi Victor Oluwatobi!
-I'm a software developer with a passion for producing engaging and aesthetically appealing applications with user-friendly interactions. I enjoy creating applications that not only function well, but are also visually pleasing and easy to use.
+<h1>Hi there, I'm Alabi Victor Oluwatobi!</h1>
 
-Skills
+<p>I'm a software developer with expertise in Flutter, Dart, HTML, CSS, and JavaScript. I have a passion for building mobile and web applications that are both visually appealing and functionally robust.</p>
 
-Flutter for building cross-platform mobile applications
-Dart for building scalable and performant applications
-HTML and CSS for creating beautiful and responsive web pages
-JavaScript for building dynamic and interactive web applications
+<h2>Skills</h2>
 
-I'm always looking for new opportunities to collaborate on exciting projects, so feel free to reach out to me if you're interested in working together!
+<ul>
+  <li>Flutter for building cross-platform mobile applications</li>
+  <li>Dart for building scalable and performant applications</li>
+  <li>HTML and CSS for creating beautiful and responsive web pages</li>
+</ul>
+
+<h2>Contact Me</h2>
+
+<ul>
+  <li>Email Address: alabivictor015@gmail.com</li>
+  <li>LinkedIn Profile: https://www.linkedin.com/in/alabi-victor-013b061b4</li>
+  <li>twitter profile: https://twitter.com/Victor69784406?t=_ODwLbhEHF814Vm0rILE6Q&s=08</li>
+</ul>
+
+<p>Feel free to reach out to me if you're interested in collaborating on a project or discussing potential opportunities. I'm always eager to work with others to create innovative and impactful applications.</p>
 
 
 ### Blogs posts
