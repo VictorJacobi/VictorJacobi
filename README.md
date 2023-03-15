@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Alabi Victor Oluwatobi</h1>
-<h3 align="center">A passionate Mobile app developer from Nigeria</h3>
+<h1 align="center">Hi 👋, I'm Alabi Victor Oluwatobi!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorjacobi&label=Profile%20views&color=0e75b6&style=flat" alt="victorjacobi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorjacobi" alt="victorjacobi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/victor69784406" target="blank"><img src="https://img.shields.io/twitter/follow/victor69784406?logo=twitter&style=for-the-badge" alt="victor69784406" /></a> </p>
-
-<h1>Hi there, I'm Alabi Victor Oluwatobi!</h1>
 
 <p>I'm a software developer with expertise in Flutter, Dart, HTML, CSS, and JavaScript. I have a passion for building mobile and web applications that are both visually appealing and functionally robust.</p>
 
