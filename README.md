@@ -7,13 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/victor69784406" target="blank"><img src="https://img.shields.io/twitter/follow/victor69784406?logo=twitter&style=for-the-badge" alt="victor69784406" /></a> </p>
 
-- 🔭 I’m currently working on **Vesti, Fitness and marlinpay app**
+Hello, I'm Alabi Victor Oluwatobi!
+I'm a software developer with a passion for producing engaging and aesthetically appealing applications with user-friendly interactions. I enjoy creating applications that not only function well, but are also visually pleasing and easy to use.
 
-- 🌱 I’m currently learning **Riverpod state management in flutter also nodejs for backend service**
+Skills
 
-- 💬 Ask me about **Android, iOS, Flutter, Dart**
+Flutter for building cross-platform mobile applications
+Dart for building scalable and performant applications
+HTML and CSS for creating beautiful and responsive web pages
+JavaScript for building dynamic and interactive web applications
 
-- 📫 How to reach me **alabivictor015@gmail.com**
+I'm always looking for new opportunities to collaborate on exciting projects, so feel free to reach out to me if you're interested in working together!
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
